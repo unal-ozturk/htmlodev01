@@ -1,0 +1,35 @@
+.header {
+    border: 12px;
+    color: rgb(226, 43, 58);
+    text-align: center;
+    font-size: 32px;
+    font-family:sans-serif;
+}
+
+a {
+    font-family: sans-serif;
+    margin: 15px;
+}
+
+.a_margin {
+    margin: 0;
+    font-size: 18px;
+}
+
+h2 {
+    color:blue; 
+    font-size:24px; 
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    font-family:sans-serif;
+}
+
+.box {
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    font-family: sans-serif;
+}
